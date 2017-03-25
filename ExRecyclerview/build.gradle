@@ -1,6 +1,6 @@
 apply plugin: 'com.android.library'
 apply plugin: 'com.github.dcendents.android-maven'
-group='com.github.freaking' //Brioal替换成你自己的Github用户名
+group='com.github.Freaking1989' //Brioal替换成你自己的Github用户名
 android {
     compileSdkVersion 25
     buildToolsVersion "25.0.2"
