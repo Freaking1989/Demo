@@ -277,9 +277,7 @@ public class ExRecyclerView extends RecyclerView {
             case MotionEvent.ACTION_DOWN:
                 mLastY = ev.getRawY();
                 break;
-            case MotionEvent.ACTION_UP:
 
-                break;
             case MotionEvent.ACTION_MOVE:
                 final float deltaY = ev.getRawY() - mLastY;
                 mLastY = ev.getRawY();
