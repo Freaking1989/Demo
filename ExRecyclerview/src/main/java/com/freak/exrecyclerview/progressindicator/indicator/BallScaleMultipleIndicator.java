@@ -9,9 +9,7 @@ import android.view.animation.LinearInterpolator;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by Jack on 2015/10/19.
- */
+
 public class BallScaleMultipleIndicator extends BaseIndicatorController {
 
     float[] scaleFloats=new float[]{1,1,1};

@@ -8,9 +8,7 @@ import android.graphics.Paint;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by Jack on 2015/10/19.
- */
+
 public class BallPulseSyncIndicator extends BaseIndicatorController {
 
     float[] translateYFloats=new float[3];

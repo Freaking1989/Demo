@@ -248,7 +248,7 @@ public class ExRecyclerView extends RecyclerView {
             }
             if ((layoutManager.getChildCount() > 0)
                     && (lastVisibleItemPosition >= layoutManager.getItemCount() - 1)
-//                    && (layoutManager.getItemCount() > layoutManager.getChildCount())
+// 不满屏时也可加载更多                   && (layoutManager.getItemCount() > layoutManager.getChildCount())
                     && (!isNoMore)
                     && (mRefreshHeader.getState() < ArrowRefreshHeader.STATE_REFRESHING)) {
 

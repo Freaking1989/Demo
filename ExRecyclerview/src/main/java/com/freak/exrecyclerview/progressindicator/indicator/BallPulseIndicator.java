@@ -8,9 +8,7 @@ import android.graphics.Paint;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by Jack on 2015/10/16.
- */
+
 public class BallPulseIndicator extends BaseIndicatorController{
 
     public static final float SCALE=1.0f;

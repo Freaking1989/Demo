@@ -10,9 +10,6 @@ import android.view.animation.LinearInterpolator;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by Jack on 2015/10/17.
- */
 public class BallPulseRiseIndicator extends BaseIndicatorController{
 
     @Override

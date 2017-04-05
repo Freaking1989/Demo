@@ -6,9 +6,7 @@ import android.animation.ValueAnimator;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by Jack on 2015/10/19.
- */
+
 public class LineScalePulseOutRapidIndicator extends LineScaleIndicator {
 
     @Override
